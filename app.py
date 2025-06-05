@@ -120,7 +120,7 @@ def generate_control_card():
         children=[
 
             # Fecha inicial
-            html.P("Seleccionar fecha y hora inicial:"),
+            html.P("Seleccione la fecha y hora inicial:"),
 
             html.Div(
                 id="componentes-fecha-inicial",
